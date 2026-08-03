@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Scanner; // Required for taking user input
 
-class Main {
+class HashExample {
     public static void main(String[] args) {
         
         // 1. Set up the Scanner and HashMap

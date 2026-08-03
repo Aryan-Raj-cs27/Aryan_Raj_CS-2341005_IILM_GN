@@ -1,4 +1,4 @@
-class Main {
+class FloorAndCeil {
     static void floorAndCeil(double x) 
     {
         int floor = (int) x;
