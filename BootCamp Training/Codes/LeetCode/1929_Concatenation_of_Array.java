@@ -9,4 +9,5 @@ class Solution
         ans[i + nums.length] = nums[i];
     }
     return ans;
+    }
 }
