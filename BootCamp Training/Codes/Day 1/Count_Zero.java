@@ -1,5 +1,5 @@
 import java.util.*;
-public class Count_Zero 
+class Count_Zero 
 {
     public static void main(String args[])
     {
