@@ -1,0 +1,35 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# VS Code workspace files
+.vscode/
+
+# Java build outputs
+*.class
+bin/
+out/
+target/
+build/
+
+# Java project metadata
+.classpath
+.project
+.settings/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+
+# Archives
+*.jar
+*.war
+*.ear
+
+# Optional local environment files
+.env
+.env.*
